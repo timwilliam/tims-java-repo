@@ -88,5 +88,17 @@ The notes here is meant to be my personal learning notes when learning the mater
    java -version
    javac -version
    ```
-   
-   
+
+## Hello World
+
+- In Java, we will create a class. And the name of the class **has to be the same** with the name of the file!
+
+- A class name in Java also can't contain any space.
+
+- The norm for class name follows sentence case (e.g.: `public class HelloWorld{}`)
+
+- Also, inside a class, there needs to be a `main` function, just like other programming language like C, or go.
+
+- Note that Java is case-sensitive!
+
+- Every line ends with a semicolon `;`
