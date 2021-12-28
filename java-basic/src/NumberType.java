@@ -1,4 +1,4 @@
-public class number {
+public class NumberType {
     public static void main(String[] args) {
         byte itsByte = 100;
         short itsShort = 1000;
