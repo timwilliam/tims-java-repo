@@ -1,4 +1,4 @@
-public class MethodReturnValue {
+public class MethodReturnValue {GSSUtil
     public static void main(String[] args) {
         // by default, method will not produce any value
         // to return a value, we change the void keyword with the desired data type to return
@@ -14,6 +14,12 @@ public class MethodReturnValue {
         System.out.println(count(a, b, "wrong"));
     }
 
+    /**
+     * Method to calculate the sume of value1 and value2
+     * @param value1 first number
+     * @param value2 second number
+     * @return summation of value1 and value 2
+     */
     static int sum(int value1, int value2){
         var total = value1 + value2;
         return total;
