@@ -1,4 +1,4 @@
-public class MethodReturnValue {GSSUtil
+public class MethodReturnValue {
     public static void main(String[] args) {
         // by default, method will not produce any value
         // to return a value, we change the void keyword with the desired data type to return

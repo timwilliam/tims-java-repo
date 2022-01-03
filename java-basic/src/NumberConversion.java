@@ -1,5 +1,8 @@
 public class NumberConversion {
     public static void main(String[] args) {
+        // for the min/max limit of a primitive data type, refer to Java documentation
+        // https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
         // number type conversion
         // widening (automatic): byte > short > int > long > float > double
         byte itsByte = 100;

@@ -1,6 +1,15 @@
 public class BooleanOperation {
     public static void main(String[] args) {
-        // available operator: &&, ||, !
+        // available boolean operator: &&, ||, !
+
+        // AND &&
+        // 0 && 0 = false; 0 && 1 = false; 1 && 0 = false; 1 && 1 = true
+
+        // OR ||
+        // 0 || 0 = false; 0 || 1 = true; 1 || 0 = true; 1 || 1 = true
+
+        // NOT !
+        // !0 = true; !1 = false
 
         var attendance = 75;
         var finalGrade = 80;

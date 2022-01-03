@@ -3,6 +3,7 @@ public class ArrayType {
         // Array is a collection of data with the same data type
         // - First index starts at 0
 
+        // Create a new array
         String[] stringArray = new String[3];
         stringArray[0] = "Tim";
         stringArray[1] = "William";
@@ -22,7 +23,7 @@ public class ArrayType {
 
         // In Java we can't really delete an element in an array, but we can set it to 0, or NULL (empty the element)
 
-        // Array inside another array
+        // Creating an array inside another array (2D array)
         String[][] members = {
                 {"Tim", "William"},
                 {"Budi", "Kurniawan"},

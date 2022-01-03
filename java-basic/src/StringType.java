@@ -10,6 +10,6 @@ public class StringType {
         System.out.println(fullName);
 
         // Note that String is not a primitive data type, default value is NULL
-        // String is a object data type
+        // String is an object data type
     }
 }

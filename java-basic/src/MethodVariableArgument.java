@@ -1,6 +1,6 @@
 public class MethodVariableArgument {
     public static void main(String[] args) {
-        // sometimes dont know how many data to be send to a method
+        // sometimes we dont know how many data to be send to a method
         // in this case, we usually use array
         // but in Java, we can use variable argument to send data with varying sizes (0 or more)
         // parameter with variable argument can only be put last in the argument brackets

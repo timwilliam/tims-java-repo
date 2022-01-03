@@ -2,7 +2,9 @@ public class BreakContinue {
     public static void main(String[] args) {
         // break stops all loop iteration
         // continue only stops the current iteration, then proceeds to the next iteration
+
         var counter = 1;
+
         while(true){
             System.out.println("Iteration " + counter);
             counter++;
